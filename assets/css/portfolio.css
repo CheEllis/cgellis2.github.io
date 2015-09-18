@@ -10,6 +10,7 @@ a:visited{color:0xFFCCCC !important;}
 	padding:5px;
 	margin-top:20px;
 	display:block;
+	background-color: black
 }
 
 .clearfix
@@ -17,7 +18,7 @@ a:visited{color:0xFFCCCC !important;}
 	clear:both;
 }
 
-.floatright 
+.floatright
 {
 	margin:5px;
 	float:right;

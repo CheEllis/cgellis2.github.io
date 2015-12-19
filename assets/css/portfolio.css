@@ -35,6 +35,17 @@ a:visited{color:0xFFCCCC !important;}
 	width: 700px ;
 	margin-left: auto ;
 	margin-right: auto ;
+	}
+}
+.body-center h1 td{
+			color: green;
+			font-size: 10em;
+			padding-top: auto;
+			padding-bottom: auto;
+			padding-left: auto;
+			padding-right: auto;
+
+
 }
 
 #profile-picture
